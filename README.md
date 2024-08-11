@@ -1,0 +1,2 @@
+# JumpsearchEngineJumpTS
+searchEngineJump typescript版
